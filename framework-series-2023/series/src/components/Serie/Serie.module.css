@@ -1,0 +1,18 @@
+/* Serie.css */
+.serie {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    background-color: #f9f9f9;
+  }
+  
+  .serie h2 {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+  }
+  
+  .serie p {
+    font-size: 1rem;
+    color: #333;
+  }
+  

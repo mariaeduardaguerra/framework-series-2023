@@ -1,0 +1,15 @@
+/* Button.css */
+.my-button {
+    background-color: #007bff; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto do botão */
+    padding: 10px 20px; /* Espaçamento interno do botão */
+    font-size: 1rem; /* Tamanho da fonte do texto do botão */
+    border: none; /* Remove a borda do botão */
+    cursor: pointer; /* Mostra uma mão ao passar o mouse sobre o botão */
+    border-radius: 4px; /* Cantos arredondados do botão */
+  }
+  
+  .my-button:hover {
+    background-color: #0056b3; /* Cor de fundo do botão ao passar o mouse */
+  }
+  
