@@ -1,40 +1,46 @@
 {
-    "series": [
-      {
-        "nome": "Good Girls",
-        "generos": ["Crime", "Drama", "Comedia"],
-        "descricao": "Três donas de casa suburbanas entram no mundo do crime para melhorar suas vidas financeiras."
-      },
-      {
-        "nome": "Friends",
-        "generos": ["Comedia", "Drama"],
-        "descricao": "A vida de seis amigos que vivem em Nova York, enfrentando desafios e aventuras juntos."
-      },
-      {
-        "nome": "Grace and Frankie",
-        "generos": ["Comedia", "Drama"],
-        "descricao": "Duas mulheres idosas descobrem que seus maridos são gays e se tornam amigas improváveis."
-      },
-      {
-        "nome": "The Good Place",
-        "generos": ["Comedia", "Fantasia"],
-        "descricao": "Após a morte, uma mulher é enviada para o 'Bom Lugar', mas logo percebe que há um erro."
-      },
-      {
-        "nome": "9-1-1 Fox",
-        "generos": ["Crime", "Drama"],
-        "descricao": "Acompanhe as vidas de policiais, bombeiros e paramédicos em Los Angeles enquanto enfrentam emergências."
-      },
-      {
-        "nome": "The Addams Family (1964 - 1966)",
-        "generos": ["Terror", "Comedia"],
-        "descricao": "A vida bizarra e excêntrica da família Addams, conhecida por suas peculiaridades."
-      },
-      {
-        "nome": "Shining Vale",
-        "generos": ["Terror", "Comedia"],
-        "descricao": "Uma família se muda para uma casa assombrada em uma cidade que também é estranha."
-      }
-    ]
+  "series": [
+    {
+      "nome": "Good Girls",
+      "generos": ["Crime", "Drama", "Comedia"],
+      "descricao": "Três donas de casa suburbanas entram no mundo do crime para melhorar suas vidas financeiras.",
+      "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adorocinema.com%2Fseries%2Fserie-21703%2Ffoto-detalhada%2F%3Fcmediafile%3D21628392&psig=AOvVaw24HQ6E7sFNReYGUSxnD4eA&ust=1693923818324000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODn2Y6UkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "nome": "Friends",
+      "generos": ["Comedia", "Drama"],
+      "descricao": "A vida de seis amigos que vivem em Nova York, enfrentando desafios e aventuras juntos.",
+      "poster": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.europosters.eu%2Fimage%2F1300%2Fposters%2Ffriends-series-de-tv-i104626.jpg&tbnid=xVv4lvU1WuKTGM&vet=12ahUKEwjVnN-dlJGBAxXdS7gEHQCOAXUQMygJegQIARBh..i&imgrefurl=https%3A%2F%2Fwww.europosters.pt%2Fposters%2Ffriends-series-de-tv-v74994&docid=OH-vOfxYriLEPM&w=869&h=1299&q=friends%20serie%20poster&safe=active&ved=2ahUKEwjVnN-dlJGBAxXdS7gEHQCOAXUQMygJegQIARBh"
+    },
+    {
+      "nome": "Grace and Frankie",
+      "generos": ["Comedia", "Drama"],
+      "descricao": "Duas mulheres idosas descobrem que seus maridos são gays e se tornam amigas improváveis.",
+      "poster": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fbr.web.img3.acsta.net%2Fpictures%2F15%2F05%2F07%2F16%2F00%2F274666.jpg&tbnid=ant8zGTlji79fM&vet=12ahUKEwj7786plJGBAxU5qJUCHXJ4CuEQMygAegQIARBF..i&imgrefurl=https%3A%2F%2Fwww.adorocinema.com%2Fseries%2Fserie-17421%2Ffoto-detalhada%2F%3Fcmediafile%3D21198976&docid=OLtsxpiHMyr-0M&w=1200&h=1600&q=grace%20and%20frankie%20poster&safe=active&ved=2ahUKEwj7786plJGBAxU5qJUCHXJ4CuEQMygAegQIARBF"
+    },
+    {
+      "nome": "The Good Place",
+      "generos": ["Comedia", "Fantasia"],
+      "descricao": "Após a morte, uma mulher é enviada para o 'Bom Lugar', mas logo percebe que há um erro.",
+      "poster": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BYmMxNjM0NmItNGU1Mi00OGMwLTkzMzctZmE3YjU1ZDE4NmFjXkEyXkFqcGdeQXVyODUxOTU0OTg%40._V1_.jpg&tbnid=W5fQUYcBGhkX3M&vet=12ahUKEwip7sOylJGBAxWATrgEHUQdBIUQMygCegQIARBT..i&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4955642%2F&docid=R3ZPT-EgeeqR8M&w=675&h=1000&q=the%20good%20place%20poster&safe=active&ved=2ahUKEwip7sOylJGBAxWATrgEHUQdBIUQMygCegQIARBT"
+    },
+    {
+      "nome": "9-1-1 Fox",
+      "generos": ["Crime", "Drama"],
+      "descricao": "Acompanhe as vidas de policiais, bombeiros e paramédicos em Los Angeles enquanto enfrentam emergências.",
+      "poster": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FER9l-UqWkAET15d.jpg%3Alarge&tbnid=Yjyxtc8iWXVE3M&vet=12ahUKEwiRvNK6lJGBAxX7uJUCHd_UB7wQMygAegQIARBE..i&imgrefurl=https%3A%2F%2Ftwitter.com%2FSeriesBrasil%2Fstatus%2F1233818724009992192&docid=giaOnF1lQqISfM&w=1242&h=1560&q=911%20fox%20poster&safe=active&ved=2ahUKEwiRvNK6lJGBAxX7uJUCHd_UB7wQMygAegQIARBE"
+    },
+    {
+      "nome": "The Addams Family (1964 - 1966)",
+      "generos": ["Terror", "Comedia"],
+      "descricao": "A vida bizarra e excêntrica da família Addams, conhecida por suas peculiaridades.",
+      "poster": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMTA5MmM4ZmYtMWE4My00OGUzLWE0ZDQtNGE5Mjc3ZWM0Y2Q1XkEyXkFqcGdeQXVyNjk1Njg5NTA%40._V1_.jpg&tbnid=PXFj5ueTnvwm-M&vet=12ahUKEwj--K7HlJGBAxVrR7gEHS0QDwMQMygBegQIARBK..i&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0057729%2F&docid=NS2jEQck-vRq7M&w=520&h=732&q=the%20addams%20family%201964%20poster&safe=active&ved=2ahUKEwj--K7HlJGBAxVrR7gEHS0QDwMQMygBegQIARBK"
+    },
+    {
+      "nome": "Shining Vale",
+      "generos": ["Terror", "Comedia"],
+      "descricao": "Uma família se muda para uma casa assombrada em uma cidade que também é estranha.",
+      "poster": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fbr.web.img3.acsta.net%2Fpictures%2F22%2F09%2F30%2F20%2F05%2F4887529.jpg&tbnid=UntfzgWf6w7iJM&vet=12ahUKEwiC4NTRlJGBAxVDu5UCHWKTAFsQMygAegQIARA_..i&imgrefurl=https%3A%2F%2Fwww.adorocinema.com%2Fseries%2Fserie-25529%2Ffoto-detalhada%2F%3Fcmediafile%3D21952321&docid=Xqe-a2Fr7EZs4M&w=1200&h=1800&itg=1&q=shining%20vale%20poster&safe=active&ved=2ahUKEwiC4NTRlJGBAxVDu5UCHWKTAFsQMygAegQIARA_"
+    }
+  ]
 }
-  
